@@ -1,0 +1,39 @@
+.login {
+    width: 60vh;
+    height: 50vh;
+    background-color: #f0f0f0;
+    margin-left: 90vh;
+    margin-top: 20vh;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: gray;
+}
+
+.label1{
+    margin-right: 10px;
+}
+
+.label2{
+    margin-right: 20px;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.login button {
+    width: 200px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
